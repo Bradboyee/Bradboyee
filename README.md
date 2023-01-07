@@ -1,6 +1,6 @@
-# 🏂 Brad : I'm a grinder
+# 🏂 Brad : grinder
 
-I'm a student from Naresuan University.
+student from Naresuan University.
 
 #
 
